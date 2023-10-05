@@ -1,0 +1,5 @@
+la conversion de 32 grados celcius a farenheit es de : 89.60 f 
+la conversion de 219 kilometros a millas es de: 136.08 mi
+la conversion de 12 pies a pulgadas es de: 144 plg
+la conversion de 93 pulgadas a centimetros es: 236.22 cm
+la conversion de 66 kilogramos a libras es: 145.50 lb 
